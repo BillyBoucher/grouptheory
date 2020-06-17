@@ -8,4 +8,5 @@ tracker = True
 
 while tracker:
     number = random.random()
+    print(number)
     tracker = number < .99
